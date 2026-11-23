@@ -23,7 +23,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Checkout Butterfly theme
-        run: git clone --depth l --branch master https://github.com/jerryc127/hexo-theme-bufferfly.git themes/butterfly
+        run: git clone --depth 1 --branch master https://github.com/jerryc127/hexo-theme-bufferfly.git themes/butterfly
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
