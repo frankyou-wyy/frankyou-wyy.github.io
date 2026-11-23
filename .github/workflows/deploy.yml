@@ -27,7 +27,7 @@ jobs:
         with:
           repository: jerryc127/hexo-theme-bufferfly
           path: themes/butterfly
-          ref:master
+          ref: master
           fetch-depth: 1
       - name: Setup Node
         uses: actions/setup-node@v4
