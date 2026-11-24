@@ -31,7 +31,7 @@ toc: true
   ‌c、编写Jenkinsfile‌：核心流程分几个阶段。‌‌
 
 ``` bash
-Jenkinsfile示例
+Jenkinsfile示例：
 
 pipeline {
     agent any
