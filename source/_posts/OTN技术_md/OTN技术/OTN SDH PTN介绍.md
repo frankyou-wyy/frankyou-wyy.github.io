@@ -16,7 +16,7 @@ toc: true
 
 ## 一、三种设备的定位
 
-​![image](assets/image-20260916085544-3yupipa.png)​
+​![image](/img/otn_image/image-20260916085544-3yupipa.png)​
 
 ---
 
@@ -39,9 +39,9 @@ SDH 设备核心特征:
 
 ### 2.2 应用场景
 
-​![image](assets/image-20260916085740-xe03zlb.png)​
+​![image](/img/otn_image/image-20260916085740-xe03zlb.png)​
 
-​![image](assets/image-20260916085815-lwloa8n.png)​
+​![image](/img/otn_image/image-20260916085815-lwloa8n.png)​
 
 ### 2.3 SDH 适用场景总结
 

@@ -25,9 +25,9 @@ toc: true
 ## 具体实施
 将构建流程写成Jenkinsfile放进代码仓库，流程可版本化、可追溯。‌‌
   a‌、新建任务‌：选择“流水线”类型。
-  ![jenkins设置](/img/jenkins_setting.png  "jenkins设置")
+  ![image](/img/jenkins_setting.png  "jenkins设置")
   b‌、配置Git仓库‌：填入仓库地址和凭据（推荐SSH密钥方式，更稳定）。
-  ![git设置](/img/git_setting.png  "git设置")
+  ![image](/img/git_setting.png  "git设置")
   ‌c、编写Jenkinsfile‌：核心流程分几个阶段。‌‌
 
 ``` bash
