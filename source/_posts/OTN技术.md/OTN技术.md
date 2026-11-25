@@ -5,7 +5,7 @@ slug:
 tags:
   - 技能
 categories:
-  - 随笔
+  - OTN技术
 description: OTN技术介绍
 toc: true
 ---

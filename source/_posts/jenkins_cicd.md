@@ -5,7 +5,7 @@ slug: jenkins-cicd
 tags:
   - 技能
 categories:
-  - 随笔
+  - 自动化
 description: 基于jenkins实现CI/CD自动化实现介绍
 toc: true
 ---

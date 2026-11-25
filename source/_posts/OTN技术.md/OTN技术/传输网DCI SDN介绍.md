@@ -5,7 +5,7 @@ slug:
 tags:
   - 技能
 categories:
-  - 随笔
+  - 传输控平
 description: 传输网DCI SDN介绍
 toc: true
 ---

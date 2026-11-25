@@ -5,7 +5,7 @@ slug:
 tags:
   - 技能
 categories:
-  - 随笔
+  - 传输控平
 description: OTN SDH PTN介绍介绍
 toc: true
 ---

@@ -5,7 +5,7 @@ slug:
 tags:
   - 技能
 categories:
-  - 随笔
+  - OTN技术
 description: ROADM OXC全光网介绍
 toc: true
 ---

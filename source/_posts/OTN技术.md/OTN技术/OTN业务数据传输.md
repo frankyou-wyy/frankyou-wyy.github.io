@@ -5,7 +5,7 @@ slug:
 tags:
   - 技能
 categories:
-  - 随笔
+  - OTN技术
 description: OTN业务数据传输
 toc: true
 ---
